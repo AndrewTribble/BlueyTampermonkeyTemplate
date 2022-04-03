@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bluey Place overlay
 // @namespace    https://nightc.at/
-// @version      1.0
+// @version      1.5
 // @description  Bluey Template
 // @author       NameWasAlreadyTaken
 // @match        https://hot-potato.reddit.com/embed*
